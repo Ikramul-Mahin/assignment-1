@@ -130,3 +130,19 @@ h2 {
     margin-left: 10%;
     margin-top: 5rem;
 }
+
+.form-area {
+    text-align: center;
+    background-color: rgb(243, 207, 213);
+    padding: 2rem 3rem;
+    margin: 2rem 8rem;
+
+}
+
+.email-input {
+    padding: 1rem 3rem;
+    background-color: rgb(173, 166, 166, 0.4);
+    border-radius: 4px;
+    color: white;
+    font-size: .9rem;
+}
