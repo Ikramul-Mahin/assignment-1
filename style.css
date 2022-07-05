@@ -107,3 +107,26 @@ h2 {
 .education {
     background-color: rgb(205, 162, 147);
 }
+
+.contribute-section {
+    display: flex;
+    margin: 4rem 0;
+}
+
+.contribute-section img {
+    width: 40%;
+}
+
+.contribute-sub {
+    width: 40%;
+    margin-left: 10%;
+}
+
+.contribute-sub h3 {
+    font-size: 3rem;
+}
+
+.adjust {
+    margin-left: 10%;
+    margin-top: 5rem;
+}
