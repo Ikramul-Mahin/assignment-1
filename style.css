@@ -151,6 +151,10 @@ h2 {
     padding: 2rem 2rem;
 }
 
+.update-section {
+    margin: 3rem 0;
+}
+
 .form-area {
     text-align: center;
     background-color: rgb(243, 207, 213);
